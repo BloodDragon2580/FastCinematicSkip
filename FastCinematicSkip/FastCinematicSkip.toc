@@ -1,8 +1,8 @@
-## Interface: 100007
+## Interface: 100100
 ## Title:|cffd6266cFastCinematicSkip|r
 ## Notes: Automatically cancels all InGame cinematics and movies.
 ## Author: BloodDragon2580
-## Version: 1.3
+## Version: 1.4
 
 embeds.xml
 locale\locale.xml
