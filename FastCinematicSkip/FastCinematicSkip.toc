@@ -2,7 +2,7 @@
 ## Title:|cffd6266cFastCinematicSkip|r
 ## Notes: Automatically cancels all InGame cinematics and movies.
 ## Author: BloodDragon2580
-## Version: 1.4
+## Version: 1.5
 
 embeds.xml
 locale\locale.xml
