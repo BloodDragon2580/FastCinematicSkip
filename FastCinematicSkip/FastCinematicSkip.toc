@@ -1,8 +1,8 @@
-## Interface: 100105
+## Interface: 100107
 ## Title:|cffd6266cFastCinematicSkip|r
 ## Notes: Automatically cancels all InGame cinematics and movies.
 ## Author: BloodDragon2580
-## Version: 1.7
+## Version: 1.8
 ## IconTexture: Interface\AddOns\FastCinematicSkip\Media\Texture\logo
 
 embeds.xml
