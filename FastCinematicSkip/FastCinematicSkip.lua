@@ -24,6 +24,6 @@ _G["MovieFrame_PlayMovie"] = function(...)
   debug("MovieFrame_PlayMovie",...)
   if IsModifierKeyDown() then return omfpf(...) end
   msg(L["Movie"])
-  GameMovieFinished()
+  CinematicFinished(1)
   return true
 end
