@@ -1,23 +1,33 @@
-Deutsch:
+# 🎬 Fast Cinematic Skip
+# English
 
-Addon: FastCinematicSkip
+A **lightweight World of Warcraft addon** that automatically skips cinematics and movies.  
+Perfect for speed-levelers, repeat questers, or anyone who just wants to get back into the action faster. ⚡
 
-Beschreibung: FastCinematicSkip ist ein nützliches Addon für World of Warcraft, das es dir ermöglicht, Zwischensequenzen und Filme im Spiel automatisch zu überspringen. Wenn eine Zwischensequenz oder ein Film beginnt, wird dieser automatisch übersprungen, es sei denn, eine Modifikatortaste (wie Shift, Alt oder Strg) ist gedrückt. Das Addon zeigt im Chatfenster an, wenn es eine Zwischensequenz oder einen Film überspringt.
+---
 
-Funktionen:
+## ✨ Features
 
-Automatisches Überspringen von Zwischensequenzen und Filmen im Spiel.
-Anzeige von Benachrichtigungen im Chatfenster, wenn eine Zwischensequenz oder ein Film übersprungen wird.
-Möglichkeit, das Debugging zu aktivieren, um detaillierte Protokolle der Überspringvorgänge zu sehen.
+✅ **Automatically skips** all cinematics and movies  
+✅ **Modifier key bypass** – hold down **Shift, Ctrl, or Alt** to watch a cinematic  
+✅ **Minimalist chat notification** when a cinematic is skipped  
+✅ **No configuration needed** – just install and play  
+✅ **Tiny footprint** – zero performance impact  
 
-English:
+---
 
-Addon: FastCinematicSkip
+# 🎬 Fast Cinematic Skip
+# Deutsch
 
-Description: FastCinematicSkip is a handy addon for World of Warcraft that allows you to automatically skip cinematics and movies in the game. When a cinematic or movie starts, it will be automatically skipped unless a modifier key (such as Shift, Alt, or Ctrl) is held down. The addon also displays notifications in the chat frame when it skips a cinematic or movie.
+Ein **leichtgewichtiges World of Warcraft Addon**, das automatisch alle Zwischensequenzen und Ingame-Filme überspringt.  
+Perfekt für Speedleveler:innen, Wiederholungstäter:innen bei Quests oder alle, die einfach schneller weiterspielen wollen. ⚡
 
-Features:
+---
 
-Automatically skips cinematics and movies in the game.
-Displays notifications in the chat frame when a cinematic or movie is skipped.
-Option to enable debugging to see detailed logs of the skip operations.
+## ✨ Features
+
+✅ **Automatisches Überspringen** aller Zwischensequenzen und Filme  
+✅ **Modifier-Key-Bypass** – halte **Shift, Ctrl oder Alt**, um die Sequenz anzuschauen  
+✅ **Kurze Chatnachricht**, wenn eine Sequenz übersprungen wird  
+✅ **Keine Konfiguration nötig** – einfach installieren und loslegen  
+✅ **Sehr leichtgewichtig** – keine spürbare Performance-Belastung  
