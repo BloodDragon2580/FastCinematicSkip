@@ -3,3 +3,5 @@ if not L then return end
 
 L["Cinematic"] = "Cinematic übersprungen."
 L["Movie"] = "Movie übersprungen."
+
+L["CinematicProtected"] = "Diese Cinematic kann wegen Blizzard-Schutz nicht automatisch übersprungen werden. Bitte drücke ESC."
